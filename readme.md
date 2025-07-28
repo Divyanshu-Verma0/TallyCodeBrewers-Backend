@@ -1,6 +1,6 @@
 # 🏁 Yoe Racer – Real-Time Speed Typing Game
 
-**Live Demo:** [Type Racer Live](https://vercel.com/divyanshus-projects-f33f6052/type-racer)
+**Live Demo:** [Type Racer Live](https://type-racer-neon.vercel.app/)
 
 Yoe Racer is a real-time multiplayer typing race game where users can test their typing speed and compete against others instantly.
 
